@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "hockeypuck-k8s-operator",
+  "versions": [
+    {
+      "commit": "dba7df50ed0ba3b107bb0fbb16197fade03b8d0d",
+      "tag": "",
+      "parsed_at": "2026-11-08T04:46:27.306800+00:00"
+    }
+  ]
+}
