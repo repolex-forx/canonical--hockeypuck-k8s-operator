@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/hockeypuck-k8s-operator/commit/dba7df50ed0ba3b107bb0fbb16197fade03b8d0d",
       "git:hexsha": "dba7df50ed0ba3b107bb0fbb16197fade03b8d0d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/canonical/hockeypuck-k8s-operator/commit/49a63019416016c146e3f3cbba9af7ca021591ba",
